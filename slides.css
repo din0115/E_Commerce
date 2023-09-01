@@ -6,7 +6,7 @@ a.slidesjs-next,
 a.slidesjs-previous,
 a.slidesjs-play,
 a.slidesjs-stop {
-  background-image: url(../img/btns.png);
+  background-image: url(./img/btns.png);
   background-repeat: no-repeat;
   display: block;
   width: 12px;
@@ -68,7 +68,7 @@ a:hover.slidesjs-stop {
   width: 13px;
   height: 0;
   padding-top: 13px;
-  background-image: url(../img/pagination.png);
+  background-image: url(./img/pagination.png);
   background-position: 0 0;
   float: left;
   overflow: hidden;
